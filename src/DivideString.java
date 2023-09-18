@@ -6,7 +6,7 @@ public class DivideString {
 
     public static void main(String args[]) {
 
-        String str = "AmitKumarNamdeo";
+        String str = "Amit Kuma rNam deo";
         int len = str.length();
         String[] equalString;
 
