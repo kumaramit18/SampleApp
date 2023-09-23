@@ -88,6 +88,5 @@ public class EmployeeComparable implements  Comparable<EmployeeComparable> {
         for(EmployeeComparable emp: empList)
             System.out.print(" "+emp);
 
-
     }
 }
